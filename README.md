@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Engineer with experience of 8+ years in FE Technologies like <br>HTML5, CSS3, Javascript, jquery, ReactJS, I am learning Angular and NodeJS<br>with less experience and enhancing my knowledge in it.  
+I am a Frontend Engineer with experience of 8+ years in FE Technologies like <br>HTML5, CSS3, Javascript, jquery, ReactJS, NodeJS, Angular
 
 
 ## 🌐 Socials:
